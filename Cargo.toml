@@ -1,0 +1,8 @@
+[package]
+name = "geometry"
+version = "0.1.0"
+authors = ["tib <pro@sch.bme.hu>"]
+edition = "2018"
+
+[dependencies]
+nalgebra = "0.18.0"
